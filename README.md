@@ -1,2 +1,2 @@
-# -Users-eugenioneto-projects-solana-constellation-loyalty-.git-
+# Constellation Loyalty
 A loyalty program write in solana
